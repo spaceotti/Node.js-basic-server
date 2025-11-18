@@ -1,5 +1,5 @@
 Node Basic Server (ohne Express)
-Ein einfacher HTTP-Server in Node.js, der Templates rendert, Dateien liest und basic Routing verwendet – komplett ohne Express. Ideal zum Lernen der Node.js-Kerngrundlagen.
+Ein einfacher HTTP-Server in Node.js, der Templates rendert, Dateien liest und basic Routing verwendet – komplett ohne Express.
 
 Features
 Lesen von HTML-Templates (Sync und Async)
